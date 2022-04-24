@@ -182,7 +182,7 @@ Performing system checks...
 
 System check identified no issues (0 silenced).
 March 28, 2022 - 23:19:44
-Django version 4.0.3, using settings 'LITReview.settings'
+Django version 4.0.3, using settings 'project.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 
