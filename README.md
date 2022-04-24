@@ -169,7 +169,7 @@ Se positionner dans le dossier de l'application récupérée sur Gihub ("DA_Pyth
 
 ```ssh
 
-$ cd LITReview
+$ cd project
 $ python manage.py runserver
 
 ```
