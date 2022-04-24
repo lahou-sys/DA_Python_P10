@@ -143,7 +143,7 @@ $ python manage.py migrate
 
 - Création du super utilisateur pour l'administration de Django
 
-Se positionner dans le dossier de l'application récupérée sur Gihub ("DA_Python_P09").
+Se positionner dans le dossier de l'application récupérée sur Gihub ("DA_Python_P10").
 
 ```ssh
 
